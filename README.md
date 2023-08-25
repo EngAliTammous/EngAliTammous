@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=100090688880028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100090688880028" height="30" width="40" /></a>
 <a href="https://instagram.com/ali_tammous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ali_tammous" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/uckdstkdnfvnfkwrnvtormgw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uckdstkdnfvnfkwrnvtormgw" height="30" width="40" /></a>
+<a href="https://youtube.com/@devalitammous?si=_Tz4wuQiddhMZN2E" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uckdstkdnfvnfkwrnvtormgw" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/alitamoos555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/alitamoos555" height="30" width="40" /></a>
 </p>
 
