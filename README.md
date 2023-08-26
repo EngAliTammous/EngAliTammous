@@ -2,6 +2,15 @@
 <h1 align="center">Hi 👋, I'm Ali Tammous</h1>
 <h3 align="center">Mobile Apps Developer Using Flutter From Palestine 😍</h3>
 
+- 📱 I am an **Mobile Apps Developer (Flutter)**
+
+- 🤓 I am looking to **collaborate on Mobile project.**
+
+- 📑 Ask me **about Mobile world.**
+
+- 📚 Current learning **Laravel/Firebase and Dart.**
+
+- ☕ lover of **coffee and big fan of geek universe.**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engalitammous&label=Profile%20views&color=0e75b6&style=flat" alt="engalitammous" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=engalitammous" alt="engalitammous" /></a> </p>
